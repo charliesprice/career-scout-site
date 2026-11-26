@@ -6,3 +6,4 @@ career-scout-status-changes-*.json
 __pycache__/
 .DS_Store
 evals/results/
+!evals/*/files/career-scout-status-changes-*.json

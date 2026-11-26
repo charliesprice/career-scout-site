@@ -1,0 +1,12 @@
+{
+  "format": "career-scout-status-changes",
+  "version": 1,
+  "exported_at": "2026-11-26T21:01:20.808Z",
+  "records_updated_at": "2026-11-25T18:00:00+00:00",
+  "changes": [
+    {"id": "job_a000000001", "title": "Project Analyst, Utility-Scale Solar", "company": "Prairie Sun Energy", "from": "new", "to": "applied", "changed_at": "2026-11-26T20:40:00.000Z"},
+    {"id": "co_b000000001", "title": "Lakeshore Heat Pumps", "company": "Lakeshore Heat Pumps", "from": "new", "to": "saved", "changed_at": "2026-11-26T20:41:00.000Z"},
+    {"id": "job_a000000003", "title": "Energy Data Analyst (remote)", "company": "Kilowatt Labs", "from": "new", "to": "dismissed", "changed_at": "2026-11-26T20:42:00.000Z"},
+    {"id": "job_a000000006", "title": "Closed: Battery Test Engineer", "company": "CellWorks", "from": "new", "to": "saved", "changed_at": "2026-11-26T20:43:00.000Z"}
+  ]
+}
