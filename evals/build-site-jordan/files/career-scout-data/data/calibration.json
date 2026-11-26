@@ -1,0 +1,30 @@
+{
+  "entries": [
+    {
+      "round": 1,
+      "record_id": "co_b000000001",
+      "title": "Lakeshore Heat Pumps",
+      "agent_score": 8.1,
+      "user_score": 7.0,
+      "delta": -1.1,
+      "reason": "Good but small team",
+      "at": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "round": 1,
+      "record_id": "job_a000000001",
+      "agent_score": 8.7,
+      "user_score": 8.0,
+      "delta": -0.7,
+      "reason": "older rating",
+      "at": "2026-11-21T00:00:00+00:00"
+    }
+  ],
+  "reach_reviews": [],
+  "lessons": [
+    {
+      "lesson": "Jordan cares more about field work than prestige.",
+      "at": "2026-11-24"
+    }
+  ]
+}

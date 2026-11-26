@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: import-status-changes
+expected_outcome: |
+  The exported status changes are applied to career-scout-data/data/records.json (status field only); the change to an already-closed posting is reported as a conflict rather than silently applied; the site is rebuilt and reflects the new statuses.
+context:
+  scaffold_script: place-files.sh

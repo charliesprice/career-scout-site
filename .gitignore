@@ -1,0 +1,8 @@
+# personal data never belongs in this repo (test fixtures under evals/ are fictional)
+/career-scout-data/
+/site/
+career-scout-status-changes-*.json
+*.tmp
+__pycache__/
+.DS_Store
+evals/results/

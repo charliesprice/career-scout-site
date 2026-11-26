@@ -1,0 +1,100 @@
+{
+  "name": "Jordan",
+  "headline": "Purdue mechanical engineering senior who wants a first job in clean-energy project analysis in Chicago.",
+  "education": {
+    "school": "Purdue University",
+    "majors": [
+      "Mechanical Engineering"
+    ],
+    "minors": [
+      "Economics"
+    ],
+    "graduation": "2027-05"
+  },
+  "looking_for": [
+    "full_time",
+    "fellowship"
+  ],
+  "start_window": {
+    "earliest": "2027-06",
+    "latest": "2027-10"
+  },
+  "priorities": [
+    {
+      "key": "location",
+      "rank": 1,
+      "label": "Location",
+      "preference": "Chicago first, then Denver; hybrid or in person"
+    },
+    {
+      "key": "impact",
+      "rank": 2,
+      "label": "Impact",
+      "preference": "Clean energy and climate: work that cuts emissions"
+    },
+    {
+      "key": "compensation",
+      "rank": 3,
+      "label": "Compensation",
+      "preference": "$60k+ base; has student loans"
+    },
+    {
+      "key": "day_to_day",
+      "rank": 4,
+      "label": "Day-to-day work",
+      "preference": "Hands-on analysis and field visits, not just slides"
+    },
+    {
+      "key": "growth_mentorship",
+      "rank": 5,
+      "label": "Growth & mentorship",
+      "preference": "A structured rotation or analyst program"
+    },
+    {
+      "key": "work_life_balance",
+      "rank": 6,
+      "label": "Work/life balance",
+      "preference": "Under 50 hours"
+    }
+  ],
+  "hard_constraints": [
+    {
+      "key": "eligibility",
+      "description": "Open to new grads (0-1 years)"
+    },
+    {
+      "key": "salary_floor",
+      "description": "Base salary at least $55k",
+      "value": 55000
+    }
+  ],
+  "locations": {
+    "preferred": [
+      "Chicago, IL"
+    ],
+    "acceptable": [
+      "Denver, CO",
+      "Minneapolis, MN"
+    ],
+    "excluded": [],
+    "remote": "acceptable"
+  },
+  "target_industries": [
+    "energy_climate",
+    "manufacturing_hardware"
+  ],
+  "target_functions": [
+    "data_analytics",
+    "engineering_hardware",
+    "consulting_strategy"
+  ],
+  "experience": [
+    {
+      "note": "PRIVATE FIELD that must not appear on the site"
+    }
+  ],
+  "settings": {
+    "constraint_cap": 3.0
+  },
+  "updated_at": "2026-11-20"
+}

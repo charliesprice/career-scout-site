@@ -1,0 +1,43 @@
+{
+  "name": "Maya",
+  "headline": "Michigan econ + music minor who turns sports and music data into decisions; wants a well-paid analytics role in NYC.",
+  "education": {"school": "University of Michigan", "majors": ["Economics"], "minors": ["Music"], "graduation": "2027-05"},
+  "looking_for": ["full_time"],
+  "start_window": {"earliest": "2027-06", "latest": "2027-09"},
+  "priorities": [
+    {"key": "location", "rank": 1, "label": "Location", "preference": "New York City (Brooklyn/Jersey City fine). Not remote-only. Other cities only for a dream job."},
+    {"key": "compensation", "rank": 2, "label": "Compensation", "preference": "High: $80k+ base preferred; has loans and supports family. $65k floor."},
+    {"key": "industry", "rank": 3, "label": "Industry", "preference": "Sports or music first; media and ticketing/live-events tech also good."},
+    {"key": "day_to_day", "rank": 4, "label": "Day-to-day work", "preference": "Analytics, modeling, building dashboards/tools people use; collaborative."},
+    {"key": "work_life_balance", "rank": 5, "label": "Work/life balance", "preference": "45-50 hrs max; evenings mostly free."},
+    {"key": "growth_mentorship", "rank": 6, "label": "Growth & mentorship", "preference": "Learn from strong analysts."},
+    {"key": "culture_team", "rank": 7, "label": "Culture & team", "preference": "Fun, collaborative, people who love the product."},
+    {"key": "long_term_path", "rank": 8, "label": "Long-term path", "preference": "Toward strategy leadership at a team, league or label, or music-tech founding."},
+    {"key": "prestige", "rank": 9, "label": "Prestige & brand", "preference": "Nice, not needed."}
+  ],
+  "hard_constraints": [
+    {"key": "employment_type", "description": "Full-time roles only (no internships)"},
+    {"key": "start_date", "description": "Start June-September 2027"},
+    {"key": "salary_floor", "description": "Base salary at least $65,000 (exception considered for a pro team front office)", "value": 65000},
+    {"key": "excluded_industries", "description": "No defense, tobacco, or gambling/sports betting companies"},
+    {"key": "visa", "description": "US citizen; no sponsorship needed"}
+  ],
+  "locations": {"preferred": ["New York, NY"], "acceptable": ["Jersey City, NJ", "Brooklyn, NY"], "excluded": [], "remote": "not_acceptable_alone"},
+  "target_industries": ["sports", "music", "media_entertainment", "technology"],
+  "avoid_industries": ["aerospace_defense"],
+  "target_functions": ["data_analytics", "data_science_ml", "consulting_strategy", "finance_investing"],
+  "target_titles": ["Business Analyst", "Strategy & Analytics Associate", "Data Analyst", "Basketball/Baseball Operations Analyst", "Insights Analyst"],
+  "interests": ["NBA and sports analytics", "indie/R&B live music", "DJing", "college radio", "streaming economics", "data storytelling"],
+  "values": ["curiosity", "community", "financial independence", "fun"],
+  "work_style": {"collaboration": "high", "structure": "medium", "pace": "fast", "hours_per_week": "45-50"},
+  "fulfillment_drivers": ["building things people use", "visible decisions from her analysis", "being around people who love the product"],
+  "long_term_goals": ["VP of strategy at a team or label", "music-tech startup", "alt: data journalist on sports/music"],
+  "seed_companies": ["NBA", "Spotify", "Live Nation", "The Ringer", "New York Knicks (MSG Sports)"],
+  "search_plan": {
+    "queries": ["sports analytics analyst new grad New York 2027", "NBA league office associate analyst", "music streaming data analyst entry level New York", "Live Nation business analyst New York", "ticketing company strategy analyst New York", "sports media data analyst New York entry level", "record label insights analyst New York", "MSG Sports analyst"],
+    "ats_boards": [{"company": "Spotify", "slug": "spotify"}, {"company": "SeatGeek", "slug": "seatgeek"}],
+    "reach_themes": ["data journalism at sports/music media", "fan-experience analytics at live-event venues", "creator-economy platforms", "fintech for artists/royalties", "sports-tech startups"]
+  },
+  "settings": {"constraint_cap": 3.0},
+  "updated_at": "2026-10-31"
+}

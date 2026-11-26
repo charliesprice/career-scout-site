@@ -1,0 +1,1203 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-11-25T18:00:00+00:00",
+  "records": [
+    {
+      "id": "job_a000000001",
+      "kind": "job",
+      "bucket": "match",
+      "title": "Project Analyst, Utility-Scale Solar",
+      "company": {
+        "name": "Prairie Sun Energy",
+        "website": "https://example.org",
+        "stage": "growth",
+        "description": "Prairie Sun Energy (fictional)"
+      },
+      "summary": "A fictional record for testing.",
+      "url": "https://example.org/job_a000000001",
+      "alternate_urls": [
+        "https://example.org/linkedin-copy"
+      ],
+      "apply_url": "https://example.org/apply/job_a000000001",
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "x",
+        "ats_id": "1",
+        "found_via": "ats"
+      },
+      "locations": [
+        {
+          "city": "Chicago",
+          "region": "IL",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "energy_climate"
+      ],
+      "functions": [
+        "data_analytics"
+      ],
+      "compensation": {
+        "min": 68000,
+        "max": 72000,
+        "currency": "USD",
+        "period": "year",
+        "source": "posted",
+        "text": "$68,000–$72,000"
+      },
+      "posted_date": null,
+      "deadline": "2027-01-15",
+      "score": {
+        "total": 8.7,
+        "uncapped_total": 8.7,
+        "components": {
+          "location": 10,
+          "impact": 9,
+          "compensation": 8,
+          "day_to_day": 8,
+          "growth_mentorship": 9,
+          "work_life_balance": 7
+        },
+        "weights_used": {
+          "location": 0.2857,
+          "impact": 0.2381,
+          "compensation": 0.1905,
+          "day_to_day": 0.1429,
+          "growth_mentorship": 0.0952,
+          "work_life_balance": 0.0476
+        },
+        "constraint_violations": [],
+        "rationale": "Chicago hybrid, solar development, and a formal analyst program.",
+        "estimated": [],
+        "missing_components": []
+      },
+      "reach_reason": null,
+      "highlights": [
+        "Chicago hybrid, your #1",
+        "Rotation across development and finance"
+      ],
+      "concerns": [
+        "Some travel to project sites"
+      ],
+      "tags": [
+        "solar",
+        "rotation"
+      ],
+      "status": "new",
+      "user": {
+        "rating": 9.0,
+        "rating_reason": "Exactly what I want",
+        "reach_valid": null,
+        "reach_reason": null
+      },
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Opened the (fictional) page on 2026-11-20",
+        "verified_at": "2026-11-20T15:00:00+00:00",
+        "last_check": "2026-11-24T15:00:00+00:00"
+      },
+      "dates": {
+        "found": "2026-11-20",
+        "last_seen": "2026-11-24",
+        "last_verified": "2026-11-24",
+        "closed": null
+      },
+      "first_run": "2026-11-20",
+      "employment_type": "full_time",
+      "seniority": "entry",
+      "requirements": {
+        "min_years_experience": 0,
+        "degree": "bachelor's in engineering",
+        "eligible": true,
+        "evidence": "Posting: 'new graduates welcome'"
+      }
+    },
+    {
+      "id": "co_b000000001",
+      "kind": "company",
+      "bucket": "match",
+      "title": "Lakeshore Heat Pumps",
+      "company": {
+        "name": "Lakeshore Heat Pumps",
+        "website": "https://example.org",
+        "stage": "startup",
+        "description": "Lakeshore Heat Pumps (fictional)"
+      },
+      "summary": "A fictional record for testing.",
+      "url": "https://example.org/co_b000000001",
+      "alternate_urls": [],
+      "apply_url": null,
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "x",
+        "ats_id": "1",
+        "found_via": "ats"
+      },
+      "locations": [
+        {
+          "city": "Chicago",
+          "region": "IL",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "energy_climate"
+      ],
+      "functions": [
+        "engineering_hardware",
+        "data_analytics"
+      ],
+      "compensation": null,
+      "posted_date": null,
+      "deadline": null,
+      "score": {
+        "total": 8.1,
+        "uncapped_total": 8.1,
+        "components": {
+          "location": 10,
+          "impact": 9,
+          "compensation": 6,
+          "day_to_day": 8,
+          "growth_mentorship": 7,
+          "work_life_balance": 7
+        },
+        "weights_used": {
+          "location": 0.2857,
+          "impact": 0.2381,
+          "compensation": 0.1905,
+          "day_to_day": 0.1429,
+          "growth_mentorship": 0.0952,
+          "work_life_balance": 0.0476
+        },
+        "constraint_violations": [],
+        "rationale": "Fits your top priorities.",
+        "estimated": [
+          "compensation"
+        ],
+        "missing_components": []
+      },
+      "reach_reason": null,
+      "highlights": [
+        "Uses your energy-systems coursework"
+      ],
+      "concerns": [],
+      "tags": [],
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null,
+        "reach_reason": null
+      },
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Opened the (fictional) page on 2026-11-20",
+        "verified_at": "2026-11-20T15:00:00+00:00",
+        "last_check": "2026-11-24T15:00:00+00:00"
+      },
+      "dates": {
+        "found": "2026-11-20",
+        "last_seen": "2026-11-24",
+        "last_verified": "2026-11-24",
+        "closed": null
+      },
+      "first_run": "2026-11-20",
+      "entry_openings": [
+        {
+          "title": "Associate Product Engineer",
+          "url": "https://example.org/lhp/ape"
+        },
+        {
+          "title": "Field Data Analyst",
+          "url": "https://example.org/lhp/fda"
+        }
+      ],
+      "watch_list": false
+    },
+    {
+      "id": "job_a000000006",
+      "kind": "job",
+      "bucket": "match",
+      "title": "Closed: Battery Test Engineer",
+      "company": {
+        "name": "CellWorks",
+        "website": "https://example.org",
+        "stage": "growth",
+        "description": "CellWorks (fictional)"
+      },
+      "summary": "A fictional record for testing.",
+      "url": "https://example.org/job_a000000006",
+      "alternate_urls": [],
+      "apply_url": null,
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "x",
+        "ats_id": "1",
+        "found_via": "ats"
+      },
+      "locations": [
+        {
+          "city": "Chicago",
+          "region": "IL",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "energy_climate"
+      ],
+      "functions": [
+        "data_analytics"
+      ],
+      "compensation": null,
+      "posted_date": null,
+      "deadline": null,
+      "score": {
+        "total": 8.0,
+        "uncapped_total": 8.0,
+        "components": {
+          "location": 8,
+          "impact": 9,
+          "compensation": 8,
+          "day_to_day": 8,
+          "growth_mentorship": 8,
+          "work_life_balance": 7
+        },
+        "weights_used": {
+          "location": 0.2857,
+          "impact": 0.2381,
+          "compensation": 0.1905,
+          "day_to_day": 0.1429,
+          "growth_mentorship": 0.0952,
+          "work_life_balance": 0.0476
+        },
+        "constraint_violations": [],
+        "rationale": "Fits your top priorities.",
+        "estimated": [],
+        "missing_components": []
+      },
+      "reach_reason": null,
+      "highlights": [
+        "Uses your energy-systems coursework"
+      ],
+      "concerns": [],
+      "tags": [],
+      "status": "closed",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null,
+        "reach_reason": null
+      },
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Opened the (fictional) page on 2026-11-20",
+        "verified_at": "2026-11-20T15:00:00+00:00",
+        "last_check": "2026-11-24T15:00:00+00:00"
+      },
+      "dates": {
+        "found": "2026-11-20",
+        "last_seen": "2026-11-24",
+        "last_verified": "2026-11-24",
+        "closed": null
+      },
+      "first_run": "2026-11-20",
+      "employment_type": "full_time",
+      "seniority": "entry",
+      "requirements": {
+        "min_years_experience": 0,
+        "degree": "bachelor's in engineering",
+        "eligible": true,
+        "evidence": "Posting: 'new graduates welcome'"
+      }
+    },
+    {
+      "id": "job_a000000004",
+      "kind": "job",
+      "bucket": "match",
+      "title": "Wind Operations Engineer I",
+      "company": {
+        "name": "Front Range Wind",
+        "website": "https://example.org",
+        "stage": "growth",
+        "description": "Front Range Wind (fictional)"
+      },
+      "summary": "A fictional record for testing.",
+      "url": "https://example.org/job_a000000004",
+      "alternate_urls": [],
+      "apply_url": null,
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "x",
+        "ats_id": "1",
+        "found_via": "ats"
+      },
+      "locations": [
+        {
+          "city": "Denver",
+          "region": "CO",
+          "country": "US"
+        }
+      ],
+      "workplace": "onsite",
+      "industries": [
+        "energy_climate",
+        "manufacturing_hardware"
+      ],
+      "functions": [
+        "engineering_hardware"
+      ],
+      "compensation": null,
+      "posted_date": null,
+      "deadline": null,
+      "score": {
+        "total": 7.2,
+        "uncapped_total": 7.2,
+        "components": {
+          "location": 7,
+          "impact": 9,
+          "compensation": 8,
+          "day_to_day": 6,
+          "growth_mentorship": 6,
+          "work_life_balance": 6
+        },
+        "weights_used": {
+          "location": 0.2857,
+          "impact": 0.2381,
+          "compensation": 0.1905,
+          "day_to_day": 0.1429,
+          "growth_mentorship": 0.0952,
+          "work_life_balance": 0.0476
+        },
+        "constraint_violations": [],
+        "rationale": "Denver is your #2 city; hands-on field work.",
+        "estimated": [],
+        "missing_components": []
+      },
+      "reach_reason": null,
+      "highlights": [
+        "Uses your energy-systems coursework"
+      ],
+      "concerns": [],
+      "tags": [],
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null,
+        "reach_reason": null
+      },
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Opened the (fictional) page on 2026-11-20",
+        "verified_at": "2026-11-20T15:00:00+00:00",
+        "last_check": "2026-11-24T15:00:00+00:00"
+      },
+      "dates": {
+        "found": "2026-11-20",
+        "last_seen": "2026-11-24",
+        "last_verified": "2026-11-24",
+        "closed": null
+      },
+      "first_run": "2026-11-20",
+      "employment_type": "full_time",
+      "seniority": "entry",
+      "requirements": {
+        "min_years_experience": 1,
+        "degree": "BS Mechanical or Electrical",
+        "eligible": false,
+        "evidence": "Posting asks for 1-2 years of field experience"
+      }
+    },
+    {
+      "id": "co_b000000002",
+      "kind": "company",
+      "bucket": "match",
+      "title": "Denver Water Futures",
+      "company": {
+        "name": "Denver Water Futures",
+        "website": "https://example.org",
+        "stage": "public_sector",
+        "description": "Denver Water Futures (fictional)"
+      },
+      "summary": "A fictional record for testing.",
+      "url": "https://example.org/co_b000000002",
+      "alternate_urls": [],
+      "apply_url": null,
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "x",
+        "ats_id": "1",
+        "found_via": "ats"
+      },
+      "locations": [
+        {
+          "city": "Denver",
+          "region": "CO",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "energy_climate",
+        "government_policy"
+      ],
+      "functions": [
+        "data_analytics"
+      ],
+      "compensation": null,
+      "posted_date": null,
+      "deadline": null,
+      "score": {
+        "total": 7.0,
+        "uncapped_total": 7.0,
+        "components": {
+          "location": 7,
+          "impact": 8,
+          "compensation": 6,
+          "day_to_day": 6,
+          "growth_mentorship": 7,
+          "work_life_balance": 9
+        },
+        "weights_used": {
+          "location": 0.2857,
+          "impact": 0.2381,
+          "compensation": 0.1905,
+          "day_to_day": 0.1429,
+          "growth_mentorship": 0.0952,
+          "work_life_balance": 0.0476
+        },
+        "constraint_violations": [],
+        "rationale": "Fits your top priorities.",
+        "estimated": [],
+        "missing_components": []
+      },
+      "reach_reason": null,
+      "highlights": [
+        "Uses your energy-systems coursework"
+      ],
+      "concerns": [],
+      "tags": [],
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null,
+        "reach_reason": null
+      },
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Opened the (fictional) page on 2026-11-20",
+        "verified_at": "2026-11-20T15:00:00+00:00",
+        "last_check": "2026-11-24T15:00:00+00:00"
+      },
+      "dates": {
+        "found": "2026-11-20",
+        "last_seen": "2026-11-24",
+        "last_verified": "2026-11-24",
+        "closed": null
+      },
+      "first_run": "2026-11-20",
+      "entry_openings": [],
+      "watch_list": true
+    },
+    {
+      "id": "job_a000000007",
+      "kind": "job",
+      "bucket": "reach",
+      "title": "Climate Tech Investment Analyst <script>alert('xss')</script>",
+      "company": {
+        "name": "Greenline Capital & Co.",
+        "website": "https://example.org",
+        "stage": "growth",
+        "description": "Greenline Capital & Co. (fictional)"
+      },
+      "summary": "Summary with <b>tags</b> & ampersands that must render as text.",
+      "url": "https://example.org/job_a000000007",
+      "alternate_urls": [],
+      "apply_url": null,
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "x",
+        "ats_id": "1",
+        "found_via": "ats"
+      },
+      "locations": [
+        {
+          "city": "Chicago",
+          "region": "IL",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "investing",
+        "energy_climate"
+      ],
+      "functions": [
+        "finance_investing"
+      ],
+      "compensation": null,
+      "posted_date": null,
+      "deadline": null,
+      "score": {
+        "total": 6.8,
+        "uncapped_total": 6.8,
+        "components": {
+          "location": 10,
+          "impact": 7,
+          "compensation": 9,
+          "day_to_day": 5,
+          "growth_mentorship": 7,
+          "work_life_balance": 4
+        },
+        "weights_used": {
+          "location": 0.2857,
+          "impact": 0.2381,
+          "compensation": 0.1905,
+          "day_to_day": 0.1429,
+          "growth_mentorship": 0.0952,
+          "work_life_balance": 0.0476
+        },
+        "constraint_violations": [],
+        "rationale": "Fits your top priorities.",
+        "estimated": [],
+        "missing_components": []
+      },
+      "reach_reason": "You didn't name investing, but your econ minor plus energy coursework is what climate VCs look for. “Smart quotes” too.",
+      "highlights": [
+        "Uses your energy-systems coursework"
+      ],
+      "concerns": [],
+      "tags": [],
+      "status": "saved",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": true,
+        "reach_reason": "Interesting idea"
+      },
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Opened the (fictional) page on 2026-11-20",
+        "verified_at": "2026-11-20T15:00:00+00:00",
+        "last_check": "2026-11-24T15:00:00+00:00"
+      },
+      "dates": {
+        "found": "2026-11-20",
+        "last_seen": "2026-11-24",
+        "last_verified": "2026-11-24",
+        "closed": null
+      },
+      "first_run": "2026-11-20",
+      "employment_type": "full_time",
+      "seniority": "entry",
+      "requirements": {
+        "min_years_experience": 0,
+        "degree": "bachelor's in engineering",
+        "eligible": true,
+        "evidence": "Posting: 'new graduates welcome'"
+      }
+    },
+    {
+      "id": "co_b000000004",
+      "kind": "company",
+      "bucket": "reach",
+      "title": "Copperline Transit",
+      "company": {
+        "name": "Copperline Transit",
+        "website": "https://example.org",
+        "stage": "growth",
+        "description": "Copperline Transit (fictional)"
+      },
+      "summary": "A fictional record for testing.",
+      "url": "https://example.org/co_b000000004",
+      "alternate_urls": [],
+      "apply_url": null,
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "x",
+        "ats_id": "1",
+        "found_via": "ats"
+      },
+      "locations": [
+        {
+          "city": "Chicago",
+          "region": "IL",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "transportation_logistics"
+      ],
+      "functions": [
+        "data_analytics"
+      ],
+      "compensation": null,
+      "posted_date": null,
+      "deadline": null,
+      "score": {
+        "total": 6.6,
+        "uncapped_total": 6.6,
+        "components": {
+          "location": 8,
+          "impact": 7,
+          "compensation": 6,
+          "day_to_day": 6,
+          "growth_mentorship": 7,
+          "work_life_balance": 6
+        },
+        "weights_used": {
+          "location": 0.2857,
+          "impact": 0.2381,
+          "compensation": 0.1905,
+          "day_to_day": 0.1429,
+          "growth_mentorship": 0.0952,
+          "work_life_balance": 0.0476
+        },
+        "constraint_violations": [],
+        "rationale": "Fits your top priorities.",
+        "estimated": [],
+        "missing_components": []
+      },
+      "reach_reason": "Transit electrification uses the same skills.",
+      "highlights": [
+        "Uses your energy-systems coursework"
+      ],
+      "concerns": [],
+      "tags": [],
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null,
+        "reach_reason": null
+      },
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Opened the (fictional) page on 2026-11-20",
+        "verified_at": "2026-11-20T15:00:00+00:00",
+        "last_check": "2026-11-24T15:00:00+00:00"
+      },
+      "dates": {
+        "found": "2026-11-25",
+        "last_seen": "2026-11-25",
+        "last_verified": "2026-11-25",
+        "closed": null
+      },
+      "first_run": "2026-11-20",
+      "entry_openings": [
+        {
+          "title": "Electrification Analyst",
+          "url": "https://example.org/ct/ea"
+        }
+      ],
+      "watch_list": false
+    },
+    {
+      "id": "job_a000000003",
+      "kind": "job",
+      "bucket": "match",
+      "title": "Energy Data Analyst (remote)",
+      "company": {
+        "name": "Kilowatt Labs",
+        "website": "https://example.org",
+        "stage": "growth",
+        "description": "Kilowatt Labs (fictional)"
+      },
+      "summary": "A fictional record for testing.",
+      "url": "https://example.org/job_a000000003",
+      "alternate_urls": [],
+      "apply_url": null,
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "x",
+        "ats_id": "1",
+        "found_via": "ats"
+      },
+      "locations": [],
+      "workplace": "remote",
+      "industries": [
+        "energy_climate"
+      ],
+      "functions": [
+        "data_analytics"
+      ],
+      "compensation": {
+        "min": 60000,
+        "max": 75000,
+        "currency": "USD",
+        "period": "year",
+        "source": "estimated",
+        "text": null
+      },
+      "posted_date": null,
+      "deadline": "2026-11-01",
+      "score": {
+        "total": 6.4,
+        "uncapped_total": 6.4,
+        "components": {
+          "location": 5,
+          "impact": 8,
+          "compensation": 7,
+          "day_to_day": 6,
+          "growth_mentorship": 6,
+          "work_life_balance": 8
+        },
+        "weights_used": {
+          "location": 0.2857,
+          "impact": 0.2381,
+          "compensation": 0.1905,
+          "day_to_day": 0.1429,
+          "growth_mentorship": 0.0952,
+          "work_life_balance": 0.0476
+        },
+        "constraint_violations": [],
+        "rationale": "Good data work but fully remote; deadline already passed.",
+        "estimated": [
+          "compensation"
+        ],
+        "missing_components": []
+      },
+      "reach_reason": null,
+      "highlights": [
+        "Uses your energy-systems coursework"
+      ],
+      "concerns": [
+        "Deadline passed Nov 1"
+      ],
+      "tags": [],
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null,
+        "reach_reason": null
+      },
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Opened the (fictional) page on 2026-11-20",
+        "verified_at": "2026-11-20T15:00:00+00:00",
+        "last_check": "2026-11-24T15:00:00+00:00"
+      },
+      "dates": {
+        "found": "2026-11-20",
+        "last_seen": "2026-11-24",
+        "last_verified": "2026-11-24",
+        "closed": null
+      },
+      "first_run": "2026-11-20",
+      "employment_type": "full_time",
+      "seniority": "entry",
+      "requirements": {
+        "min_years_experience": 0,
+        "degree": "bachelor's in engineering",
+        "eligible": true,
+        "evidence": "Posting: 'new graduates welcome'"
+      }
+    },
+    {
+      "id": "job_a000000005",
+      "kind": "job",
+      "bucket": "match",
+      "title": "Legacy record: Sustainability Associate",
+      "company": {
+        "name": "OldCo",
+        "website": "https://example.org",
+        "stage": "growth",
+        "description": "OldCo (fictional)"
+      },
+      "summary": "A fictional record for testing.",
+      "url": "https://example.org/job_a000000005",
+      "alternate_urls": [],
+      "apply_url": null,
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "x",
+        "ats_id": "1",
+        "found_via": "ats"
+      },
+      "locations": [
+        {
+          "city": "Chicago",
+          "region": "IL",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "energy_climate"
+      ],
+      "functions": [
+        "data_analytics"
+      ],
+      "compensation": null,
+      "posted_date": null,
+      "deadline": null,
+      "score": {
+        "total": 5.9,
+        "uncapped_total": 5.9,
+        "components": {
+          "location": 8,
+          "impact": 6,
+          "compensation": 5,
+          "day_to_day": 5,
+          "growth_mentorship": 6,
+          "work_life_balance": 6
+        },
+        "weights_used": {
+          "location": 0.2857,
+          "impact": 0.2381,
+          "compensation": 0.1905,
+          "day_to_day": 0.1429,
+          "growth_mentorship": 0.0952,
+          "work_life_balance": 0.0476
+        },
+        "constraint_violations": [],
+        "rationale": "Fits your top priorities.",
+        "estimated": [],
+        "missing_components": []
+      },
+      "reach_reason": null,
+      "highlights": [
+        "Uses your energy-systems coursework"
+      ],
+      "concerns": [],
+      "tags": [],
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null,
+        "reach_reason": null
+      },
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Opened the (fictional) page on 2026-11-20",
+        "verified_at": "2026-11-20T15:00:00+00:00",
+        "last_check": "2026-11-24T15:00:00+00:00"
+      },
+      "dates": {
+        "found": "2026-11-20",
+        "last_seen": "2026-11-24",
+        "last_verified": "2026-11-24",
+        "closed": null
+      },
+      "first_run": "2026-11-20",
+      "employment_type": "full_time",
+      "seniority": "entry"
+    },
+    {
+      "id": "co_b000000003",
+      "kind": "company",
+      "bucket": "reach",
+      "title": "Hydrogen Hub Collective",
+      "company": {
+        "name": "Hydrogen Hub Collective",
+        "website": "https://example.org",
+        "stage": "growth",
+        "description": "Hydrogen Hub Collective (fictional)"
+      },
+      "summary": "A fictional record for testing.",
+      "url": "https://example.org/co_b000000003",
+      "alternate_urls": [],
+      "apply_url": null,
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "x",
+        "ats_id": "1",
+        "found_via": "ats"
+      },
+      "locations": [
+        {
+          "city": "Houston",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "energy_climate"
+      ],
+      "functions": [
+        "data_analytics"
+      ],
+      "compensation": null,
+      "posted_date": null,
+      "deadline": null,
+      "score": {
+        "total": 5.5,
+        "uncapped_total": 5.5,
+        "components": {
+          "location": 6,
+          "impact": 7,
+          "compensation": 5,
+          "day_to_day": 5,
+          "growth_mentorship": 5,
+          "work_life_balance": 6
+        },
+        "weights_used": {
+          "location": 0.2857,
+          "impact": 0.2381,
+          "compensation": 0.1905,
+          "day_to_day": 0.1429,
+          "growth_mentorship": 0.0952,
+          "work_life_balance": 0.0476
+        },
+        "constraint_violations": [],
+        "rationale": "Fits your top priorities.",
+        "estimated": [],
+        "missing_components": []
+      },
+      "reach_reason": "Adjacent to your interest in grid work.",
+      "highlights": [
+        "Uses your energy-systems coursework"
+      ],
+      "concerns": [],
+      "tags": [],
+      "status": "dismissed",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null,
+        "reach_reason": null
+      },
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Opened the (fictional) page on 2026-11-20",
+        "verified_at": "2026-11-20T15:00:00+00:00",
+        "last_check": "2026-11-24T15:00:00+00:00"
+      },
+      "dates": {
+        "found": "2026-11-20",
+        "last_seen": "2026-11-24",
+        "last_verified": "2026-11-24",
+        "closed": null
+      },
+      "first_run": "2026-11-20",
+      "entry_openings": [],
+      "watch_list": true
+    },
+    {
+      "id": "co_b000000005",
+      "kind": "company",
+      "bucket": "match",
+      "title": "Legacy company record",
+      "company": {
+        "name": "Legacy Inc",
+        "website": "https://example.org",
+        "stage": "growth",
+        "description": "Legacy Inc (fictional)"
+      },
+      "summary": "A fictional record for testing.",
+      "url": "https://example.org/co_b000000005",
+      "alternate_urls": [],
+      "apply_url": null,
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "x",
+        "ats_id": "1",
+        "found_via": "ats"
+      },
+      "locations": [
+        {
+          "city": "Chicago",
+          "region": "IL",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "energy_climate"
+      ],
+      "functions": [
+        "data_analytics"
+      ],
+      "compensation": null,
+      "posted_date": null,
+      "deadline": null,
+      "score": {
+        "total": 4.2,
+        "uncapped_total": 4.2,
+        "components": {
+          "location": 4,
+          "impact": 4,
+          "compensation": 4,
+          "day_to_day": 4,
+          "growth_mentorship": 5,
+          "work_life_balance": 5
+        },
+        "weights_used": {
+          "location": 0.2857,
+          "impact": 0.2381,
+          "compensation": 0.1905,
+          "day_to_day": 0.1429,
+          "growth_mentorship": 0.0952,
+          "work_life_balance": 0.0476
+        },
+        "constraint_violations": [],
+        "rationale": "Fits your top priorities.",
+        "estimated": [],
+        "missing_components": [
+          "work_life_balance"
+        ]
+      },
+      "reach_reason": null,
+      "highlights": [
+        "Uses your energy-systems coursework"
+      ],
+      "concerns": [],
+      "tags": [],
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null,
+        "reach_reason": null
+      },
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Opened the (fictional) page on 2026-11-20",
+        "verified_at": "2026-11-20T15:00:00+00:00",
+        "last_check": "2026-11-24T15:00:00+00:00"
+      },
+      "dates": {
+        "found": "2026-11-20",
+        "last_seen": "2026-11-24",
+        "last_verified": "2026-11-24",
+        "closed": null
+      },
+      "first_run": "2026-11-20"
+    },
+    {
+      "id": "job_a000000002",
+      "kind": "job",
+      "bucket": "match",
+      "title": "Grid Modernization Fellow",
+      "company": {
+        "name": "Midwest Grid Lab",
+        "website": "https://example.org",
+        "stage": "nonprofit",
+        "description": "Midwest Grid Lab (fictional)"
+      },
+      "summary": "A fictional record for testing.",
+      "url": "https://example.org/job_a000000002",
+      "alternate_urls": [],
+      "apply_url": null,
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "x",
+        "ats_id": "1",
+        "found_via": "ats"
+      },
+      "locations": [
+        {
+          "city": "Chicago",
+          "region": "IL",
+          "country": "US"
+        },
+        {
+          "city": "Minneapolis",
+          "region": "MN",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "energy_climate"
+      ],
+      "functions": [
+        "data_analytics"
+      ],
+      "compensation": {
+        "min": 52000,
+        "max": 52000,
+        "currency": "USD",
+        "period": "stipend",
+        "source": "posted",
+        "text": "$52,000 stipend"
+      },
+      "posted_date": null,
+      "deadline": "2026-12-03",
+      "score": {
+        "total": 3.0,
+        "uncapped_total": 7.9,
+        "components": {
+          "location": 9,
+          "impact": 10,
+          "compensation": 4,
+          "day_to_day": 8,
+          "growth_mentorship": 9,
+          "work_life_balance": 8
+        },
+        "weights_used": {
+          "location": 0.2857,
+          "impact": 0.2381,
+          "compensation": 0.1905,
+          "day_to_day": 0.1429,
+          "growth_mentorship": 0.0952,
+          "work_life_balance": 0.0476
+        },
+        "constraint_violations": [
+          "salary below floor"
+        ],
+        "rationale": "Strong fit on mission, but the stipend is under your $55k floor.",
+        "estimated": [],
+        "missing_components": []
+      },
+      "reach_reason": null,
+      "highlights": [
+        "Uses your energy-systems coursework"
+      ],
+      "concerns": [
+        "Stipend below your floor",
+        "Deadline in about a week"
+      ],
+      "tags": [],
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null,
+        "reach_reason": null
+      },
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Opened the (fictional) page on 2026-11-20",
+        "verified_at": "2026-11-20T15:00:00+00:00",
+        "last_check": "2026-11-24T15:00:00+00:00"
+      },
+      "dates": {
+        "found": "2026-11-20",
+        "last_seen": "2026-11-24",
+        "last_verified": "2026-11-24",
+        "closed": null
+      },
+      "first_run": "2026-11-20",
+      "employment_type": "fellowship",
+      "seniority": "entry",
+      "requirements": {
+        "min_years_experience": 0,
+        "degree": "bachelor's in engineering",
+        "eligible": true,
+        "evidence": "Posting: 'new graduates welcome'"
+      }
+    }
+  ]
+}

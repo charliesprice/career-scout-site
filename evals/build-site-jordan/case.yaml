@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: build-site-jordan
+expected_outcome: |
+  A single self-contained HTML file built from career-scout-data that opens offline and shows every record in separate views (openings, companies, reach, watch list), with filters, and on each card the score with breakdown, eligibility, deadline and a direct link. The input data is unchanged.
+context:
+  scaffold_script: place-files.sh

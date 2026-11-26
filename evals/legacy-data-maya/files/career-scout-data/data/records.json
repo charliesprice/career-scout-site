@@ -1,0 +1,1377 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-10-31T07:08:47+00:00",
+  "records": [
+    {
+      "kind": "job",
+      "bucket": "match",
+      "title": "Data Scientist, Music Promotion (Discovery Mode)",
+      "company": {
+        "name": "Spotify",
+        "website": "https://www.spotify.com",
+        "stage": "large",
+        "size": "5000-10000",
+        "description": "Audio streaming platform"
+      },
+      "summary": "Data scientist on Discovery Mode in the Music Mission, building promotional tools for artists and labels: define metrics, build dashboards, test hypotheses and shape the product.",
+      "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+      "source": {
+        "name": "lever",
+        "ats": "lever",
+        "board": "spotify",
+        "ats_id": "56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+        "found_via": "scout.py ats spotify --keywords analyst,data,..."
+      },
+      "locations": [
+        {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "music",
+        "technology"
+      ],
+      "functions": [
+        "data_science_ml",
+        "data_analytics"
+      ],
+      "employment_type": "full_time",
+      "seniority": "unknown",
+      "compensation": {
+        "min": 94584,
+        "max": 135121,
+        "currency": "USD",
+        "period": "year",
+        "source": "posted",
+        "text": "$94,584-$135,121 plus equity"
+      },
+      "posted_date": "2026-09-10",
+      "deadline": null,
+      "score": {
+        "components": {
+          "location": 9,
+          "compensation": 10,
+          "industry": 10,
+          "day_to_day": 9,
+          "work_life_balance": 8,
+          "growth_mentorship": 8,
+          "culture_team": 8,
+          "long_term_path": 8,
+          "prestige": 9
+        },
+        "constraint_violations": [],
+        "estimated": [
+          "work_life_balance",
+          "growth_mentorship",
+          "culture_team"
+        ],
+        "rationale": "Almost exactly the job you describe: NYC, high pay, music, and building metrics and dashboards that artists' teams use. The catch is that it asks for prior data-science experience, so it's a stretch to land.",
+        "total": 9.0,
+        "uncapped_total": 9.0,
+        "missing_components": [],
+        "weights_used": {
+          "location": 0.2,
+          "compensation": 0.1778,
+          "industry": 0.1556,
+          "day_to_day": 0.1333,
+          "work_life_balance": 0.1111,
+          "growth_mentorship": 0.0889,
+          "culture_team": 0.0667,
+          "long_term_path": 0.0444,
+          "prestige": 0.0222
+        }
+      },
+      "highlights": [
+        "Spotify was on your list, and this is the streaming-economics work you'd study for free",
+        "Pays $94.6k to $135k, well above your target",
+        "Defining metrics and dashboards for artist promotion tools is the 'build something people use' work you love",
+        "Econ degree is listed as qualifying"
+      ],
+      "concerns": [
+        "Asks for 'demonstrated ability in a similar Data Science role'; as a new grad you'd be a long shot",
+        "The header says remote, but the text says it's based in the NYC office",
+        "Likely wants someone now, not June 2027; use it to find the team and watch for its junior openings"
+      ],
+      "tags": [
+        "music-streaming",
+        "artist-tools",
+        "data-science"
+      ],
+      "verification": {
+        "method": "ats_api",
+        "evidence": "Lever API returned the posting (created 2026-09-10); opened page shows active Apply buttons, NYC office, $94,584-$135,121.",
+        "verified_at": "2026-10-31T07:08:47+00:00"
+      },
+      "id": "job_071dd861c6",
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null
+      },
+      "dates": {
+        "found": "2026-10-31",
+        "last_seen": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "first_run": "2026-10-31"
+    },
+    {
+      "kind": "company",
+      "bucket": "match",
+      "title": "NBA League Office",
+      "company": {
+        "name": "National Basketball Association",
+        "website": "https://www.nba.com",
+        "stage": "large",
+        "size": "1000-5000",
+        "description": "League office at 645 Fifth Ave (Olympic Tower), with media operations in Secaucus, NJ"
+      },
+      "summary": "The league office runs Basketball Strategy & Analytics, Data Strategy & Analytics and Global Media Insights teams from Midtown. Employees can work remotely one day a week.",
+      "url": "https://careers.nba.com/us/en/search-results",
+      "source": {
+        "name": "company_site",
+        "ats": "workday",
+        "board": "nba/nbacareers",
+        "ats_id": null,
+        "found_via": "careers.nba.com (Phenom) jobs API"
+      },
+      "locations": [
+        {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        },
+        {
+          "city": "Secaucus",
+          "region": "NJ",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "sports",
+        "media_entertainment"
+      ],
+      "functions": [
+        "data_analytics",
+        "consulting_strategy"
+      ],
+      "compensation": {
+        "min": 65000,
+        "max": 100000,
+        "currency": "USD",
+        "period": "year",
+        "source": "estimated",
+        "text": "Estimated; a 2+ year analyst role is posted at $85k-$100k"
+      },
+      "score": {
+        "components": {
+          "location": 10,
+          "compensation": 7,
+          "industry": 10,
+          "day_to_day": 8,
+          "work_life_balance": 6,
+          "growth_mentorship": 8,
+          "culture_team": 8,
+          "long_term_path": 10,
+          "prestige": 10
+        },
+        "constraint_violations": [],
+        "estimated": [
+          "compensation",
+          "work_life_balance",
+          "growth_mentorship",
+          "culture_team"
+        ],
+        "rationale": "Your top dream employer, in NYC, and the most direct route to strategy leadership in basketball. Right now its analyst openings want 2+ years or are temporary.",
+        "total": 8.4,
+        "uncapped_total": 8.4,
+        "missing_components": [],
+        "weights_used": {
+          "location": 0.2,
+          "compensation": 0.1778,
+          "industry": 0.1556,
+          "day_to_day": 0.1333,
+          "work_life_balance": 0.1111,
+          "growth_mentorship": 0.0889,
+          "culture_team": 0.0667,
+          "long_term_path": 0.0444,
+          "prestige": 0.0222
+        }
+      },
+      "highlights": [
+        "Your Tuesday-in-three-years vision mentions the NBA office by name",
+        "Analytics teams exist across basketball, fan data and media",
+        "A WNBA analyst role posted this week pays $85k-$100k, a guide to where pay goes after 2 years"
+      ],
+      "concerns": [
+        "No full-time new-grad program; current analyst roles ask for 2+ years or are 'project employee' (temporary)",
+        "Its 2027 summer internships don't fit your full-time-only rule",
+        "Watch for 'Associate' and 'Coordinator' analytics roles in spring 2027"
+      ],
+      "tags": [
+        "nba",
+        "league-office",
+        "sports-analytics",
+        "seed-company"
+      ],
+      "verification": {
+        "method": "page_opened",
+        "evidence": "careers.nba.com jobs API returned 58 live postings on 2026-10-31, including NYC roles posted 2026-10-26 to 10-30 (e.g. WNBA Basketball Administration & Compliance Analyst, JR001126, canApply true on Workday).",
+        "verified_at": "2026-10-31T07:08:47+00:00"
+      },
+      "id": "co_5c3d1f18bf",
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null
+      },
+      "dates": {
+        "found": "2026-10-31",
+        "last_seen": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "first_run": "2026-10-31"
+    },
+    {
+      "kind": "company",
+      "bucket": "match",
+      "title": "Two Circles",
+      "company": {
+        "name": "Two Circles",
+        "website": "https://twocircles.com/us/",
+        "stage": "growth",
+        "size": "1000-5000",
+        "description": "Sports marketing agency built on fan data; clients include the NFL, Premier League and Nike"
+      },
+      "summary": "Data-driven sports marketing agency with a New York office. It grows fan audiences and revenue for leagues, teams and brands using BI dashboards, segmentation and predictive models.",
+      "url": "https://twocircles.com/us/",
+      "source": {
+        "name": "company_site",
+        "ats": "workable",
+        "board": "twocircles",
+        "ats_id": null,
+        "found_via": "web search 'sports analyst program New York' -> Workable board"
+      },
+      "locations": [
+        {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "sports",
+        "marketing_advertising"
+      ],
+      "functions": [
+        "data_analytics",
+        "consulting_strategy",
+        "marketing"
+      ],
+      "compensation": null,
+      "score": {
+        "components": {
+          "location": 10,
+          "compensation": 6,
+          "industry": 9,
+          "day_to_day": 9,
+          "work_life_balance": 6,
+          "growth_mentorship": 8,
+          "culture_team": 8,
+          "long_term_path": 8,
+          "prestige": 6
+        },
+        "constraint_violations": [],
+        "estimated": [
+          "compensation",
+          "work_life_balance",
+          "growth_mentorship",
+          "culture_team"
+        ],
+        "rationale": "Sports, fan data and dashboards in NYC: very close to your ideal day-to-day. Pay is unknown and agency hours can run long.",
+        "total": 8.1,
+        "uncapped_total": 8.1,
+        "missing_components": [],
+        "weights_used": {
+          "location": 0.2,
+          "compensation": 0.1778,
+          "industry": 0.1556,
+          "day_to_day": 0.1333,
+          "work_life_balance": 0.1111,
+          "growth_mentorship": 0.0889,
+          "culture_team": 0.0667,
+          "long_term_path": 0.0444,
+          "prestige": 0.0222
+        }
+      },
+      "highlights": [
+        "The work is fan segmentation, dashboards and predictive models on fan data, the same thing your Whitecaps promo-night dashboard did",
+        "Runs a graduate 'Early Careers' track ('Try-outs Day'), so they hire juniors",
+        "Clients span NBA-adjacent leagues, teams and brands"
+      ],
+      "concerns": [
+        "The 2027 Early Careers posting found is London-only; NYC roles open now want 3-5 years",
+        "Agency pace and client deadlines"
+      ],
+      "tags": [
+        "sports-marketing",
+        "fan-data",
+        "agency"
+      ],
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Workable board returned live postings on 2026-10-31, including NYC 'Consultant' published 2026-10-23; twocircles.com/us loads.",
+        "verified_at": "2026-10-31T07:08:47+00:00"
+      },
+      "id": "co_0a53ff88a9",
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null
+      },
+      "dates": {
+        "found": "2026-10-31",
+        "last_seen": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "first_run": "2026-10-31"
+    },
+    {
+      "kind": "company",
+      "bucket": "match",
+      "title": "SeatGeek",
+      "company": {
+        "name": "SeatGeek",
+        "website": "https://seatgeek.com",
+        "stage": "growth",
+        "size": "500-1000",
+        "description": "Ticketing platform for fans, teams, venues and shows"
+      },
+      "summary": "NYC-headquartered ticketing company: primary ticketing for teams and venues plus a fan marketplace. Hires new grads and has analyst roles in marketing and analytics.",
+      "url": "https://job-boards.greenhouse.io/seatgeek",
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "seatgeek",
+        "ats_id": null,
+        "found_via": "scout.py ats seatgeek"
+      },
+      "locations": [
+        {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "technology",
+        "sports",
+        "music"
+      ],
+      "functions": [
+        "data_analytics",
+        "marketing",
+        "software_engineering"
+      ],
+      "compensation": {
+        "min": 63000,
+        "max": 92000,
+        "currency": "USD",
+        "period": "year",
+        "source": "estimated",
+        "text": "Estimated from past SeatGeek analyst postings"
+      },
+      "score": {
+        "components": {
+          "location": 10,
+          "compensation": 7,
+          "industry": 9,
+          "day_to_day": 7,
+          "work_life_balance": 8,
+          "growth_mentorship": 7,
+          "culture_team": 8,
+          "long_term_path": 7,
+          "prestige": 6
+        },
+        "constraint_violations": [],
+        "estimated": [
+          "compensation",
+          "day_to_day",
+          "growth_mentorship",
+          "culture_team"
+        ],
+        "rationale": "Ticketing and live-events tech in NYC with a flexible, fan-first culture. No new-grad analyst opening right now.",
+        "total": 8.1,
+        "uncapped_total": 8.1,
+        "missing_components": [],
+        "weights_used": {
+          "location": 0.2,
+          "compensation": 0.1778,
+          "industry": 0.1556,
+          "day_to_day": 0.1333,
+          "work_life_balance": 0.1111,
+          "growth_mentorship": 0.0889,
+          "culture_team": 0.0667,
+          "long_term_path": 0.0444,
+          "prestige": 0.0222
+        }
+      },
+      "highlights": [
+        "You said you're curious about ticketing and the business of live events",
+        "Posted New Grad roles this fall (software, UX), so it runs a new-grad hiring cycle",
+        "Flexible office policy and unlimited PTO protect your evenings"
+      ],
+      "concerns": [
+        "Current NYC analyst role (Paid Social & Programmatic) wants 2+ years of ad-buying experience",
+        "New-grad roles posted so far are engineering and design"
+      ],
+      "tags": [
+        "ticketing",
+        "live-events",
+        "music-tech"
+      ],
+      "verification": {
+        "method": "ats_api",
+        "evidence": "Greenhouse API for seatgeek returned live postings on 2026-10-31, including Software Engineer - New Grad (NYC, 2026-09-23) and UX Design - New Grad (2026-10-01).",
+        "verified_at": "2026-10-31T07:08:47+00:00"
+      },
+      "id": "co_3dc85812a1",
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null
+      },
+      "dates": {
+        "found": "2026-10-31",
+        "last_seen": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "first_run": "2026-10-31"
+    },
+    {
+      "kind": "job",
+      "bucket": "reach",
+      "title": "Fellow, Data Journalism (2027 Times Fellowship)",
+      "company": {
+        "name": "The New York Times",
+        "website": "https://www.nytimes.com",
+        "stage": "large",
+        "size": "5000-10000",
+        "description": "News organization; also owns The Athletic"
+      },
+      "summary": "One-year, full-time paid fellowship on the Times' Data Journalism team: find stories in data, analyze them reproducibly and publish. Runs June 7, 2027 to May 26, 2028.",
+      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4742427005",
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "thenewyorktimes",
+        "ats_id": "4742427005",
+        "found_via": "Greenhouse board scan: thenewyorktimes"
+      },
+      "locations": [
+        {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        }
+      ],
+      "workplace": "onsite",
+      "industries": [
+        "media_entertainment"
+      ],
+      "functions": [
+        "writing_content",
+        "data_analytics"
+      ],
+      "employment_type": "fellowship",
+      "seniority": "entry",
+      "compensation": {
+        "min": 82414,
+        "max": 82414,
+        "currency": "USD",
+        "period": "year",
+        "source": "posted",
+        "text": "$82,414.80"
+      },
+      "posted_date": "2026-10-19",
+      "deadline": "2026-11-20",
+      "reach_reason": "Your backup future is 'sports/music journalist doing data stories,' and you'd trade careers with Kirk Goldsberry. Your 40-reader stats newsletter is exactly the 'published work that weaves data analysis with reporting' this asks for.",
+      "score": {
+        "components": {
+          "location": 10,
+          "compensation": 8,
+          "industry": 5,
+          "day_to_day": 9,
+          "work_life_balance": 5,
+          "growth_mentorship": 10,
+          "culture_team": 8,
+          "long_term_path": 8,
+          "prestige": 10
+        },
+        "constraint_violations": [],
+        "estimated": [
+          "culture_team"
+        ],
+        "rationale": "Strong on your #1 (NYC), #2 ($82k) and #4 (data analysis that turns into something people read). It's general news rather than sports or music, and it's a one-year program.",
+        "total": 8.0,
+        "uncapped_total": 8.0,
+        "missing_components": [],
+        "weights_used": {
+          "location": 0.2,
+          "compensation": 0.1778,
+          "industry": 0.1556,
+          "day_to_day": 0.1333,
+          "work_life_balance": 0.1111,
+          "growth_mentorship": 0.0889,
+          "culture_team": 0.0667,
+          "long_term_path": 0.0444,
+          "prestige": 0.0222
+        }
+      },
+      "highlights": [
+        "Starts June 7, 2027, right when you graduate",
+        "Pays $82.4k, above your $80k preferred number",
+        "Puts your 'data plus storytelling' flow at the center of the job",
+        "Your newsletter and radio show can go in the required portfolio"
+      ],
+      "concerns": [
+        "Deadline is Nov 20, 5pm ET; you need a resume, cover letter and portfolio link",
+        "One-year fellowship with no guaranteed full-time job afterward",
+        "General newsroom, not a sports desk; may include nights and weekends"
+      ],
+      "tags": [
+        "data-journalism",
+        "fellowship",
+        "2027-start"
+      ],
+      "verification": {
+        "method": "ats_api",
+        "evidence": "Greenhouse API returned the posting (first published 2026-10-19, updated 2026-10-30); text gives the June 7, 2027 start, the Nov 20 deadline and $82,414.80 pay.",
+        "verified_at": "2026-10-31T07:08:47+00:00"
+      },
+      "id": "job_0152793be3",
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null
+      },
+      "dates": {
+        "found": "2026-10-31",
+        "last_seen": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "first_run": "2026-10-31"
+    },
+    {
+      "kind": "job",
+      "bucket": "match",
+      "title": "Royalty Data Specialist",
+      "company": {
+        "name": "Duetti",
+        "website": "https://www.duetti.co",
+        "stage": "startup",
+        "size": "50-200",
+        "description": "Buys, manages and markets independent artists' and songwriters' catalogs; backed by Raine and Roc Nation"
+      },
+      "summary": "Own the pipeline that turns raw music royalty statements from distributors and streaming services into clean data used to price catalogs, and build Python tools to automate it.",
+      "url": "https://jobs.lever.co/duetti/f96cd6f2-da9b-43f5-b0c3-d7eabf1f1e9b",
+      "source": {
+        "name": "lever",
+        "ats": "lever",
+        "board": "duetti",
+        "ats_id": "f96cd6f2-da9b-43f5-b0c3-d7eabf1f1e9b",
+        "found_via": "Lever board scan: duetti (music/royalty fintech theme)"
+      },
+      "locations": [
+        {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "music",
+        "finance"
+      ],
+      "functions": [
+        "data_analytics",
+        "operations"
+      ],
+      "employment_type": "full_time",
+      "seniority": "entry",
+      "compensation": {
+        "min": 80000,
+        "max": 95000,
+        "currency": "USD",
+        "period": "year",
+        "source": "posted",
+        "text": "$80,000-$95,000"
+      },
+      "posted_date": "2026-08-26",
+      "deadline": null,
+      "score": {
+        "components": {
+          "location": 9,
+          "compensation": 9,
+          "industry": 9,
+          "day_to_day": 6,
+          "work_life_balance": 7,
+          "growth_mentorship": 6,
+          "culture_team": 7,
+          "long_term_path": 8,
+          "prestige": 5
+        },
+        "constraint_violations": [],
+        "estimated": [
+          "work_life_balance",
+          "growth_mentorship",
+          "culture_team"
+        ],
+        "rationale": "Hits your top three: NYC hybrid, $80k to $95k, and the business of music. Day-to-day leans toward processing statements, which you might find grindy, but the automation and pricing side uses your Python.",
+        "total": 7.8,
+        "uncapped_total": 7.8,
+        "missing_components": [],
+        "weights_used": {
+          "location": 0.2,
+          "compensation": 0.1778,
+          "industry": 0.1556,
+          "day_to_day": 0.1333,
+          "work_life_balance": 0.1111,
+          "growth_mentorship": 0.0889,
+          "culture_team": 0.0667,
+          "long_term_path": 0.0444,
+          "prestige": 0.0222
+        }
+      },
+      "highlights": [
+        "Pure streaming economics: you'd see what songs actually earn",
+        "Connects to your admiration for artists who own their masters",
+        "Asks for an econ-type degree, SQL and Python, with no minimum years listed",
+        "Small, fast-growing company backed by Raine and Roc Nation, a strong network toward music-tech founding"
+      ],
+      "concerns": [
+        "A lot of statement review; you said grunt work without analysis drains you",
+        "Small startup, so less formal mentorship",
+        "Probably hiring now; ask whether a June 2027 start could work"
+      ],
+      "tags": [
+        "music-royalties",
+        "fintech-for-artists",
+        "catalog-investing"
+      ],
+      "verification": {
+        "method": "ats_api",
+        "evidence": "Lever API returned the posting (created 2026-08-26), Full-Time, hybrid, New York NY, salary range $80,000-$95,000.",
+        "verified_at": "2026-10-31T07:08:47+00:00"
+      },
+      "id": "job_548e76cd27",
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null
+      },
+      "dates": {
+        "found": "2026-10-31",
+        "last_seen": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "first_run": "2026-10-31"
+    },
+    {
+      "kind": "company",
+      "bucket": "match",
+      "title": "MSG Sports (New York Knicks)",
+      "company": {
+        "name": "Madison Square Garden Sports",
+        "website": "https://www.msgknicks.com",
+        "stage": "large",
+        "size": "500-1000",
+        "description": "Owns the Knicks, Rangers and Westchester Knicks"
+      },
+      "summary": "Owner of the Knicks and Rangers, with business strategy, premium/ticketing analytics and coaching-analytics staff at the Garden.",
+      "url": "https://www.msgknicks.com/careers/",
+      "source": {
+        "name": "company_site",
+        "ats": "greenhouse",
+        "board": null,
+        "ats_id": null,
+        "found_via": "msgsports.com redirects to msgknicks.com/careers"
+      },
+      "locations": [
+        {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        }
+      ],
+      "workplace": "onsite",
+      "industries": [
+        "sports"
+      ],
+      "functions": [
+        "data_analytics",
+        "consulting_strategy",
+        "finance_investing"
+      ],
+      "compensation": {
+        "min": 65000,
+        "max": 95000,
+        "currency": "USD",
+        "period": "year",
+        "source": "estimated",
+        "text": "Estimated from past MSG Sports analyst postings ($65k-$95k)"
+      },
+      "score": {
+        "components": {
+          "location": 10,
+          "compensation": 5,
+          "industry": 10,
+          "day_to_day": 7,
+          "work_life_balance": 5,
+          "growth_mentorship": 6,
+          "culture_team": 7,
+          "long_term_path": 9,
+          "prestige": 8
+        },
+        "constraint_violations": [],
+        "estimated": [
+          "compensation",
+          "day_to_day",
+          "work_life_balance",
+          "growth_mentorship",
+          "culture_team"
+        ],
+        "rationale": "Your 'worth it even at lower pay' team, in Manhattan. Pay and game-night hours are the tradeoffs, and there's no analyst opening right now.",
+        "total": 7.5,
+        "uncapped_total": 7.5,
+        "missing_components": [],
+        "weights_used": {
+          "location": 0.2,
+          "compensation": 0.1778,
+          "industry": 0.1556,
+          "day_to_day": 0.1333,
+          "work_life_balance": 0.1111,
+          "growth_mentorship": 0.0889,
+          "culture_team": 0.0667,
+          "long_term_path": 0.0444,
+          "prestige": 0.0222
+        }
+      },
+      "highlights": [
+        "You named the Knicks analytics team and said a Knicks job at $55k would be worth it",
+        "Past analyst roles in Premium Solutions and Business Operations used Tableau and pricing data, close to your Whitecaps dashboard work",
+        "Has a Student Associate program page you could use for networking before graduation"
+      ],
+      "concerns": [
+        "Current openings are accounting, admin and game-night roles; no analyst listings today",
+        "Team roles often mean nights and weekends during the season",
+        "Past analyst pay ran from your floor to the low $90s"
+      ],
+      "tags": [
+        "knicks",
+        "team-front-office",
+        "seed-company"
+      ],
+      "verification": {
+        "method": "page_opened",
+        "evidence": "msgsports.com redirects to msgknicks.com; careers/jobs page live 2026-10-31 listing current Greenhouse postings (Senior Accountant, Westchester Knicks game-night roles, etc.).",
+        "verified_at": "2026-10-31T07:08:47+00:00"
+      },
+      "id": "co_553d5846df",
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null
+      },
+      "dates": {
+        "found": "2026-10-31",
+        "last_seen": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "first_run": "2026-10-31"
+    },
+    {
+      "kind": "company",
+      "bucket": "reach",
+      "title": "Sportico",
+      "company": {
+        "name": "Sportico",
+        "website": "https://www.sportico.com",
+        "stage": "growth",
+        "size": "50-200",
+        "description": "Sports business news and data publication (Penske Media), known for team valuations"
+      },
+      "summary": "Sports business outlet covering deals, media rights, valuations and athlete pay, with data-driven franchise valuations and business analysis.",
+      "url": "https://www.sportico.com/",
+      "source": {
+        "name": "company_site",
+        "ats": "greenhouse",
+        "board": "pmc",
+        "ats_id": null,
+        "found_via": "reach theme: data journalism at sports media"
+      },
+      "locations": [
+        {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "media_entertainment",
+        "sports"
+      ],
+      "functions": [
+        "writing_content",
+        "research",
+        "data_analytics"
+      ],
+      "compensation": null,
+      "reach_reason": "Your Sports Economics salary-vs-wins model, your interest in fair pay for athletes, and your stats newsletter add up to sports-business data journalism. Sportico's team valuations and pay analysis are exactly that, and it's a stepping stone to team or league strategy.",
+      "score": {
+        "components": {
+          "location": 9,
+          "compensation": 5,
+          "industry": 9,
+          "day_to_day": 8,
+          "work_life_balance": 6,
+          "growth_mentorship": 6,
+          "culture_team": 7,
+          "long_term_path": 8,
+          "prestige": 6
+        },
+        "constraint_violations": [],
+        "estimated": [
+          "location",
+          "compensation",
+          "day_to_day",
+          "work_life_balance",
+          "growth_mentorship",
+          "culture_team"
+        ],
+        "rationale": "Sports business plus data storytelling, likely NYC-based. Media pay is the main drawback against your #2.",
+        "total": 7.3,
+        "uncapped_total": 7.3,
+        "missing_components": [],
+        "weights_used": {
+          "location": 0.2,
+          "compensation": 0.1778,
+          "industry": 0.1556,
+          "day_to_day": 0.1333,
+          "work_life_balance": 0.1111,
+          "growth_mentorship": 0.0889,
+          "culture_team": 0.0667,
+          "long_term_path": 0.0444,
+          "prestige": 0.0222
+        }
+      },
+      "highlights": [
+        "Valuations and salary analysis are your Sports Economics class project done as a job",
+        "Builds a public portfolio, which your professor said front offices hire for",
+        "Read by the team and league executives you want to work for"
+      ],
+      "concerns": [
+        "Small newsroom with few openings; parent PMC posts them on its Greenhouse board",
+        "Media salaries often run below $80k at entry level"
+      ],
+      "tags": [
+        "sports-business",
+        "data-journalism",
+        "reach"
+      ],
+      "verification": {
+        "method": "page_opened",
+        "evidence": "sportico.com loaded 2026-10-31 with articles dated into October 2026.",
+        "verified_at": "2026-10-31T07:08:47+00:00"
+      },
+      "id": "co_13efb6ca11",
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null
+      },
+      "dates": {
+        "found": "2026-10-31",
+        "last_seen": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "first_run": "2026-10-31"
+    },
+    {
+      "kind": "job",
+      "bucket": "match",
+      "title": "Finance Leadership Development Program (NYC), July 2027 Start",
+      "company": {
+        "name": "Paramount Skydance",
+        "website": "https://www.paramount.com",
+        "stage": "large",
+        "size": "10000+",
+        "description": "Media company behind CBS, CBS Sports, Paramount+, MTV, BET and, after the WBD deal, TNT Sports and HBO"
+      },
+      "summary": "Two-year, full-time rotational finance program in Times Square: three eight-month rotations across Paramount's finance org, a dedicated mentor, and a capstone pitched to leadership. Starts July 2027.",
+      "url": "https://careers.paramount.com/job/New-York-Finance-Leadership-Development-Program-%2528NYC%2529-July-2027-Start-NY-10036/1440265100/",
+      "alternate_urls": [
+        "https://www.entertainmentcareers.net/paramount/finance-analyst-in-leadership-development-program/job/534216/"
+      ],
+      "source": {
+        "name": "company_site",
+        "ats": null,
+        "board": null,
+        "ats_id": "46674",
+        "found_via": "web search -> EntertainmentCareers listing -> employer site"
+      },
+      "locations": [
+        {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        }
+      ],
+      "workplace": "onsite",
+      "industries": [
+        "media_entertainment"
+      ],
+      "functions": [
+        "finance_investing"
+      ],
+      "employment_type": "full_time",
+      "seniority": "entry",
+      "compensation": {
+        "min": 80000,
+        "max": 80000,
+        "currency": "USD",
+        "period": "year",
+        "source": "posted",
+        "text": "$80,000"
+      },
+      "posted_date": "2026-10-14",
+      "deadline": "2026-11-13",
+      "score": {
+        "components": {
+          "location": 10,
+          "compensation": 8,
+          "industry": 6,
+          "day_to_day": 5,
+          "work_life_balance": 6,
+          "growth_mentorship": 9,
+          "culture_team": 6,
+          "long_term_path": 6,
+          "prestige": 8
+        },
+        "constraint_violations": [],
+        "estimated": [
+          "work_life_balance",
+          "culture_team"
+        ],
+        "rationale": "The only find this run that's built for your exact timeline: NYC, a July 2027 start, and $80k, which meets your preferred pay. It's media finance, not sports or music analytics, so industry and day-to-day score in the middle.",
+        "total": 7.3,
+        "uncapped_total": 7.3,
+        "missing_components": [],
+        "weights_used": {
+          "location": 0.2,
+          "compensation": 0.1778,
+          "industry": 0.1556,
+          "day_to_day": 0.1333,
+          "work_life_balance": 0.1111,
+          "growth_mentorship": 0.0889,
+          "culture_team": 0.0667,
+          "long_term_path": 0.0444,
+          "prestige": 0.0222
+        }
+      },
+      "highlights": [
+        "Starts July 2027, right inside your June to September window",
+        "$80k posted, at your preferred number, plus a mentor and three rotations",
+        "Rotations could land near CBS Sports or TNT Sports finance",
+        "Your econometrics and Excel strength fit the modeling and forecasting work"
+      ],
+      "concerns": [
+        "Application deadline is Nov 13, about two weeks away",
+        "Part of the work is month-end close and accruals, the kind of grunt work you said drains you",
+        "Closer to the 'corporate finance' path you said you'd be disappointed by, though it's in Midtown media"
+      ],
+      "tags": [
+        "2027-start",
+        "rotational-program",
+        "media",
+        "finance"
+      ],
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Opened the careers.paramount.com posting (req 46674): 'Apply now' button, New York NY 10036, Full-Time On-Site, salary $80,000. EntertainmentCareers copy shows posted 2026-10-14, deadline Nov 13.",
+        "verified_at": "2026-10-31T07:08:47+00:00"
+      },
+      "id": "job_e49f93f8cf",
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null
+      },
+      "dates": {
+        "found": "2026-10-31",
+        "last_seen": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "first_run": "2026-10-31"
+    },
+    {
+      "kind": "company",
+      "bucket": "reach",
+      "title": "BSE Global (Brooklyn Nets & Barclays Center)",
+      "company": {
+        "name": "BSE Global",
+        "website": "https://www.bseglobal.com",
+        "stage": "large",
+        "size": "500-1000",
+        "description": "Owns and operates the Brooklyn Nets, New York Liberty and Barclays Center"
+      },
+      "summary": "Brooklyn company that runs the Nets and Liberty plus Barclays Center, one of the busiest concert and event venues in the country.",
+      "url": "https://www.bseglobal.com/",
+      "source": {
+        "name": "greenhouse",
+        "ats": "greenhouse",
+        "board": "bseglobal",
+        "ats_id": null,
+        "found_via": "Greenhouse board scan: bseglobal (reach theme: venue fan-experience analytics)"
+      },
+      "locations": [
+        {
+          "city": "Brooklyn",
+          "region": "NY",
+          "country": "US"
+        }
+      ],
+      "workplace": "onsite",
+      "industries": [
+        "sports",
+        "music",
+        "media_entertainment"
+      ],
+      "functions": [
+        "data_analytics",
+        "operations",
+        "marketing"
+      ],
+      "compensation": null,
+      "reach_reason": "Your Whitecaps promo-night dashboard plus two shows a week: venue and fan-experience analytics at a building that hosts both NBA games and the R&B and indie tours you go to, in the borough you want to live in.",
+      "score": {
+        "components": {
+          "location": 9,
+          "compensation": 5,
+          "industry": 9,
+          "day_to_day": 7,
+          "work_life_balance": 5,
+          "growth_mentorship": 6,
+          "culture_team": 8,
+          "long_term_path": 8,
+          "prestige": 7
+        },
+        "constraint_violations": [],
+        "estimated": [
+          "compensation",
+          "day_to_day",
+          "work_life_balance",
+          "growth_mentorship",
+          "culture_team"
+        ],
+        "rationale": "Basketball and live music under one roof in Brooklyn. Event-night hours and unknown pay are the tradeoffs.",
+        "total": 7.2,
+        "uncapped_total": 7.2,
+        "missing_components": [],
+        "weights_used": {
+          "location": 0.2,
+          "compensation": 0.1778,
+          "industry": 0.1556,
+          "day_to_day": 0.1333,
+          "work_life_balance": 0.1111,
+          "growth_mentorship": 0.0889,
+          "culture_team": 0.0667,
+          "long_term_path": 0.0444,
+          "prestige": 0.0222
+        }
+      },
+      "highlights": [
+        "Mixes your two industries: NBA, WNBA and concerts",
+        "Ticketing and promo analytics are where your Whitecaps result (30% more walk-up sales on fireworks nights) translates directly",
+        "Brooklyn, close to Baby's All Right"
+      ],
+      "concerns": [
+        "Current Greenhouse openings are operations and facilities, not analytics",
+        "Venue jobs often mean event nights, which compete with your own shows"
+      ],
+      "tags": [
+        "venue",
+        "nets",
+        "barclays-center",
+        "reach"
+      ],
+      "verification": {
+        "method": "ats_api",
+        "evidence": "Greenhouse API for bseglobal returned 31 live postings on 2026-10-31 (Brooklyn roles updated 2026-10-26); bseglobal.com loads.",
+        "verified_at": "2026-10-31T07:08:47+00:00"
+      },
+      "id": "co_cde35ca315",
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null
+      },
+      "dates": {
+        "found": "2026-10-31",
+        "last_seen": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "first_run": "2026-10-31"
+    },
+    {
+      "kind": "job",
+      "bucket": "match",
+      "title": "Associate Product Manager, Promoted Ads (Ticketmaster)",
+      "company": {
+        "name": "Live Nation Entertainment",
+        "website": "https://www.livenationentertainment.com",
+        "stage": "large",
+        "size": "10000+",
+        "description": "Live Nation Concerts, Ticketmaster and Live Nation Media & Sponsorship"
+      },
+      "summary": "Entry-level PM on Ticketmaster's Promoted Ads platform: write requirements, do discovery and research, use data to measure product performance, and work with design and engineering.",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/New-York-NY-USA/LN-Media---Sponsorship----Associate-Product-Manager_JR-93132",
+      "source": {
+        "name": "company_site",
+        "ats": "workday",
+        "board": "livenation/LNExternalSite",
+        "ats_id": "JR-93132",
+        "found_via": "Live Nation Workday search: 'analytics'"
+      },
+      "locations": [
+        {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        }
+      ],
+      "workplace": "unknown",
+      "industries": [
+        "music",
+        "media_entertainment",
+        "technology"
+      ],
+      "functions": [
+        "product_management",
+        "data_analytics"
+      ],
+      "employment_type": "full_time",
+      "seniority": "entry",
+      "compensation": {
+        "min": 66300,
+        "max": 66300,
+        "currency": "USD",
+        "period": "year",
+        "source": "posted",
+        "text": "$66,300"
+      },
+      "posted_date": "2026-10-12",
+      "deadline": null,
+      "score": {
+        "components": {
+          "location": 10,
+          "compensation": 4,
+          "industry": 9,
+          "day_to_day": 6,
+          "work_life_balance": 6,
+          "growth_mentorship": 6,
+          "culture_team": 8,
+          "long_term_path": 7,
+          "prestige": 7
+        },
+        "constraint_violations": [],
+        "estimated": [
+          "work_life_balance",
+          "growth_mentorship",
+          "culture_team"
+        ],
+        "rationale": "Live Nation and ticketing tech, in NYC, open to people whose experience is internships. Pay of $66.3k barely clears your $65k floor, which pulls the score down hard on your #2.",
+        "total": 7.1,
+        "uncapped_total": 7.1,
+        "missing_components": [],
+        "weights_used": {
+          "location": 0.2,
+          "compensation": 0.1778,
+          "industry": 0.1556,
+          "day_to_day": 0.1333,
+          "work_life_balance": 0.1111,
+          "growth_mentorship": 0.0889,
+          "culture_team": 0.0667,
+          "long_term_path": 0.0444,
+          "prestige": 0.0222
+        }
+      },
+      "highlights": [
+        "Live Nation was one of the companies you named; this is Ticketmaster's ad product",
+        "Asks only for 'some experience (internship, etc)', so your Whitecaps work counts",
+        "Product skills feed your music-tech founder dream",
+        "Free concert tickets are a listed perk"
+      ],
+      "concerns": [
+        "$66,300 is just above your floor and well under your $80k preferred",
+        "More specs and backlog work than modeling",
+        "Posted for an immediate hire, months before you graduate. Treat it as a sign this team hires juniors and check back in spring"
+      ],
+      "tags": [
+        "ticketing",
+        "live-events",
+        "product",
+        "music-tech"
+      ],
+      "verification": {
+        "method": "page_opened",
+        "evidence": "Live Nation Workday API returned the posting JR-93132: canApply true, posted 2026-10-12 ('19 days ago'), New York NY, expected pay $66,300.",
+        "verified_at": "2026-10-31T07:08:47+00:00"
+      },
+      "id": "job_56b5da2e51",
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null
+      },
+      "dates": {
+        "found": "2026-10-31",
+        "last_seen": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "first_run": "2026-10-31"
+    },
+    {
+      "kind": "company",
+      "bucket": "match",
+      "title": "The Ringer",
+      "company": {
+        "name": "The Ringer (Spotify)",
+        "website": "https://www.theringer.com",
+        "stage": "large",
+        "size": "200-500",
+        "description": "Sports, music and pop-culture podcast and media network owned by Spotify"
+      },
+      "summary": "Bill Simmons' sports and culture media network, now part of Spotify. Hires through Spotify's job board.",
+      "url": "https://www.theringer.com/",
+      "source": {
+        "name": "company_site",
+        "ats": "lever",
+        "board": "spotify",
+        "ats_id": null,
+        "found_via": "seed company check"
+      },
+      "locations": [
+        {
+          "city": "Los Angeles",
+          "region": "CA",
+          "country": "US"
+        },
+        {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        }
+      ],
+      "workplace": "hybrid",
+      "industries": [
+        "media_entertainment",
+        "sports",
+        "music"
+      ],
+      "functions": [
+        "writing_content",
+        "data_analytics"
+      ],
+      "compensation": null,
+      "score": {
+        "components": {
+          "location": 5,
+          "compensation": 6,
+          "industry": 10,
+          "day_to_day": 7,
+          "work_life_balance": 6,
+          "growth_mentorship": 7,
+          "culture_team": 9,
+          "long_term_path": 8,
+          "prestige": 8
+        },
+        "constraint_violations": [],
+        "estimated": [
+          "location",
+          "compensation",
+          "day_to_day",
+          "work_life_balance",
+          "growth_mentorship",
+          "culture_team"
+        ],
+        "rationale": "Your favorite outlet and right on sports plus music, but much of its staff is in LA, and analytics roles there are rare.",
+        "total": 7.0,
+        "uncapped_total": 7.0,
+        "missing_components": [],
+        "weights_used": {
+          "location": 0.2,
+          "compensation": 0.1778,
+          "industry": 0.1556,
+          "day_to_day": 0.1333,
+          "work_life_balance": 0.1111,
+          "growth_mentorship": 0.0889,
+          "culture_team": 0.0667,
+          "long_term_path": 0.0444,
+          "prestige": 0.0222
+        }
+      },
+      "highlights": [
+        "You read The Ringer and follow Zach Lowe-style analysis",
+        "Lines up with your data-journalist backup future",
+        "Spotify ownership means Spotify-level benefits and pay bands"
+      ],
+      "concerns": [
+        "Center of gravity is Los Angeles; check NYC openings carefully",
+        "No relevant listing found on Spotify's board today"
+      ],
+      "tags": [
+        "sports-media",
+        "podcasts",
+        "seed-company"
+      ],
+      "verification": {
+        "method": "page_opened",
+        "evidence": "theringer.com loaded 2026-10-31 with current dated content.",
+        "verified_at": "2026-10-31T07:08:47+00:00"
+      },
+      "id": "co_dae7ea49f5",
+      "status": "new",
+      "user": {
+        "rating": null,
+        "rating_reason": null,
+        "reach_valid": null
+      },
+      "dates": {
+        "found": "2026-10-31",
+        "last_seen": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "first_run": "2026-10-31"
+    }
+  ]
+}
